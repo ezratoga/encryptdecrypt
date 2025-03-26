@@ -1,7 +1,7 @@
 # Encrypt/Decrypt Text API with Alogrithm aes-256-cbc
 
 ## Set your own port
-Set your own configuration like this:
+Set your own configuration file (src/main/resources/application.properties) like this:
 ```
 port=<your-own-port>
 ```
